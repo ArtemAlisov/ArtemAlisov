@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently continuing to learn C++
-- 🔨 Favorite languages to work with: C++ & Python 
-- ⚡ Fun fact: I want to know everything :smile:
+- 🔨 Мy favorite languages to work with: C++ & Python 
 
 
 <!--
