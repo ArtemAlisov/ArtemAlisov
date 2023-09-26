@@ -1,8 +1,3 @@
-### Hi there 👋
-
-- 🔨 Мy favorite languages to work with: C++ & Python 
-
-
 <!--
 **ArtemAlisov/ArtemAlisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
