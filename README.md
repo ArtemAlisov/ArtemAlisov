@@ -3,7 +3,7 @@
 Наиболее интересный (на мой взгляд) из реализованных мною и представленных в открытом доступе проектов: [игровой сервер](https://github.com/ArtemAlisov/game_backend).
 
 Основное внимание уделяю C++, Python, SQL и VBA.  
-Знаю на базовом уровне и иногда применяю на практике HTML5 и CSS3.  
+Знаю на базовом уровне и иногда применяю на практике JS, HTML5 и CSS3.  
 Планирую изучить Go.
 <!--
 **ArtemAlisov/ArtemAlisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
